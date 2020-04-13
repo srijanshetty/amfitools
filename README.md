@@ -1,14 +1,3 @@
-```
-                 __  __                      __                  
-    ____  __  __/ /_/ /_  ____  ____        / /_  ____ _________ 
-   / __ \/ / / / __/ __ \/ __ \/ __ \______/ __ \/ __ `/ ___/ _ \
-  / /_/ / /_/ / /_/ / / / /_/ / / / /_____/ /_/ / /_/ (__  )  __/
- / .___/\__, /\__/_/ /_/\____/_/ /_/     /_.___/\__,_/____/\___/ 
-/_/    /____/                                                    
-```
-
-> Opionated base template for python projects
-
 ## Install
 
 ```bash
@@ -26,6 +15,8 @@ make test
 ## Live
 
 ## TODO
+- [ ] Better match function for comparison
+- [ ] Command line argument parsing
 
 ## Non Goals
 
